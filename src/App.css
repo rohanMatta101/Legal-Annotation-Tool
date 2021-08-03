@@ -1,0 +1,64 @@
+.App-header{
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+.App-header-display-option{
+  flex-direction: column;
+  text-align: center;
+  padding: 80px;
+}
+.App-header-Input{
+  flex-direction: row;
+  text-align: center;
+  margin-bottom: 50px;
+  padding: 40px;
+}
+.Home-Icon{
+ margin-right: 400px;
+ 
+ width: 40px;
+}
+.Home-Icon:hover{
+  background-color: grey;
+}
+.Input{
+  display: flex;
+  margin-left: 450px;
+  padding: 10px;
+  margin-bottom: 38px;
+}
+.Input-DS{
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 38px;
+  border:solid 2px grey;
+  border-radius: 5px;
+}
+.plusButton{
+  border: 1.5 white;
+  border-style:solid;
+  color: white;
+  background-color: black;
+  width: 75px;
+  border-radius: 3px;
+  font-size: 1rem;
+}
+.plusButton:hover{
+  background-color: gray;
+  color: black;
+}
+.Button{
+  border: 1.5 white;
+  border-style:solid;
+  color: white;
+  background-color: black;
+}
+.Button:hover{
+  background-color: gray;
+  color: black;
+}
+.Options{
+  padding: 20px;
+}

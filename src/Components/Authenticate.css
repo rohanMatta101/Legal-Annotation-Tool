@@ -1,0 +1,33 @@
+.Authenticate{
+    text-align: center;
+}
+.Button{
+    border: 1.5 white;
+    border-style:solid;
+    color: white;
+    background-color: black;
+  }
+  .Button:hover{
+    background-color: gray;
+    color: black;
+  }
+ .Mylist{
+    border: 1.5px white;
+    border-style:solid;
+     width: 150px;
+     margin-left: 650px;
+     margin-bottom: 20px;
+ } 
+ .Icon{
+   width: 40px;
+ }
+ .Icon:hover{
+    background-color: grey;
+ }
+ .AuthCont{
+   display: flex;
+   flex-direction: column;
+ }
+ .Cont{
+   border-bottom:1.5px solid white;
+ }

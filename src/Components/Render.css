@@ -1,0 +1,88 @@
+.Render{
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+.Box{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border:2.5px solid grey;
+}
+.Box-no{
+    margin-top: 10px;
+    visibility: hidden;
+}
+.Icon{
+    flex-direction: row;
+    margin-right: 1400px;
+    width: 40px;
+}
+.Icon:hover{
+    background-color: grey;
+}
+.Button{
+    margin-bottom: 10px;
+    padding: 10px;
+    color: white;
+    border: 1.5 white;
+    border-style:solid;
+    width: 200px;
+    background-color: black;
+}
+.Buttonadd{
+    margin-bottom: 10px;
+    padding: 2px;
+    color: white;
+    border: 1.5 white;
+    border-style:solid;
+    width: 60px;
+    background-color: black;
+}
+.Buttonadd:hover{
+    background-color: gray;
+    color: black;
+}
+.Button:hover{
+    background-color: gray;
+    color: black;
+}
+.DisplayRender{
+    border: 1.5px solid grey;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-left: 10px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+.Dropdown{
+   margin-top: 15px;
+   margin-left: 15px;
+
+}
+.Button{
+    margin-top: 10px;
+    margin-left: 5px;
+    padding: 10px;
+    border: 1.5 white;
+    border-style:solid;
+    color: white;
+    
+    background-color: black;
+}
+.Button:hover{
+    background-color: gray;
+    color: black;
+}
+.Disabled{
+    background-color: gray;
+    color:black;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 1.5 white;
+    border-style:solid;
+    width: 200px;
+}

@@ -1,0 +1,131 @@
+.LabelingSubPart{
+    text-align: center;
+    flex-direction: row;
+}
+.LabelingSubPart-box{
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    border:2.5px solid grey;
+    width:700px;
+}
+.LabelingSubPart-boxno{
+    margin-top: 10px;
+    visibility: hidden;
+}
+.LSPbuttonforFetch{
+    margin-bottom: 10px;
+    padding: 10px;
+    color: white;
+    border: 1.5 white;
+    border-style:solid;
+    width: 300px;
+    background-color: black;
+    border-radius: 10px;
+}
+.LSPbuttonforFetch:hover{
+    background-color: gray;
+    color: black;
+}
+.LSPbutton{
+    margin-top: 12px;
+    padding: 10px;
+    color: white;
+    border: 1.5 white;
+    border-style:solid;
+    width: 200px;
+    margin-left: 350px;
+    background-color: black;
+    border-radius: 10px;
+}
+.BtnDisable{
+    margin-bottom: 10px;
+    padding: 10px;
+    color: black;
+    border: 1.5 white;
+    border-style:solid;
+    width: 300px;
+    background-color: gray;
+    border-radius: 10px;
+}
+.LSPbutton:hover{
+    background-color: gray;
+    color: black;
+}
+.LabelingSubPart-header{
+    text-align: center;
+    margin-top: 30px;
+}
+.displayLSP{
+    background-color: black;
+    border:2.5px solid grey;
+}
+.LabelingSubPart-dropdown{
+    margin-left: 50px;
+    position: fixed;
+    border-width: 1.5px;
+    color: white;
+    background-color: black;
+    font-size: 1.2rem;
+    border-radius: 6px;
+    width: 200px;
+    padding: 15px;
+ }
+ .DropLSP{
+     display: flex;
+     flex-direction: row;
+     position: fixed;
+     margin-left: 750px;
+     margin-top: 60px;
+ }
+ .LSPbuttondisable{
+    background-color: gray;
+    color:black;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1.5 white;
+    border-style:solid;
+    width: 200px;
+ }
+ .ButtonDL{
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+    border: 1.5 white;
+    border-style:solid;
+    width: 200px;
+    background-color: black;
+    border-radius: 10px;
+ }
+ .ButtonDL:hover{
+    background-color: gray;
+    color: black;
+ }
+ .ButtonCc{
+    margin-top: 10px;
+    padding: 10px;
+    color: white;
+    border: 1.5 white;
+    border-style:solid;
+    width: 200px;
+    margin-left: 50px;
+    background-color: black;
+    border-radius: 10px;
+ }
+ .ButtonCc:hover{
+    background-color: gray;
+    color: black;
+ }
+ .Icon{
+    flex-direction: row;
+    margin-right: 1400px;
+    width: 40px;
+}
+.Icon:hover{
+    background-color: grey;
+}
+.Saved{
+    background-color: white;
+    margin-left: 30px;
+    width: 100px;
+}
